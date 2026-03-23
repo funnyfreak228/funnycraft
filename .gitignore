@@ -1,0 +1,41 @@
+# Build artifacts
+/build/
+*.o
+*.obj
+*.exe
+funnycraft
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+
+# wxWidgets generated
+*.plist
+
+# User data (keep directories, ignore contents)
+/instances/*
+!instances/.gitkeep
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
