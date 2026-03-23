@@ -2,7 +2,6 @@
 
 A free and open-source Minecraft Java Edition launcher built with C++ and wxWidgets.
 
-![Screenshot](screenshot.png)
 
 ## Features
 
